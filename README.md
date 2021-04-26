@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vishnu10kk
 - 👀 I’m interested in Web Technologies
-- 🌱 I’m familiar with laravel
+- 🌱 familiar with laravel
 - 📫 How to reach me ...? : vishnu10kk@gmail.com
